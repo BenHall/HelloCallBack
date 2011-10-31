@@ -22,8 +22,8 @@
 	<false/>
 	<key>ExternalHosts</key>
 	<array>
-        <string>*</string>
-    </array>
+		<string>*</string>
+	</array>
 	<key>Plugins</key>
 	<dict>
 		<key>com.phonegap.accelerometer</key>
